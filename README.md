@@ -1,5 +1,7 @@
 # Capstone Project
 
+## Description
+
 My project is created to classify and predict the credible credit card clients based on the classic and advanced machine learning methods. 
 
 Statement problems: how does the probability of default payment vary by categories of different demographic variables? Which variables are the strongest predictors of default payment? How do we predict the credit card clients may lead to default of credit card? 
@@ -13,7 +15,7 @@ My goal is to predict the credible clients based on the default credit card paym
 
 Dataset: 25 variables and 30,000 observations
 
-## Appendix:
+## Appendix
 
 •	ID: ID of each client
 
